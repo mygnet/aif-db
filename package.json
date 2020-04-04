@@ -1,7 +1,7 @@
 {
   "name": "aif-db",
-  "version": "0.0.1",
-  "description": "It is a simple and fast NoSQL database manager",
+  "version": "0.0.2",
+  "description": "It is a simple and fast NoSQL database",
   "author": {
     "name": "Martin R. Mondragon Sotelo",
     "email": "mygnet@gmail.com"

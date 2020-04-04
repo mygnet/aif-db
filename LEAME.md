@@ -2,7 +2,7 @@
 
 ## Es un gestor simple y rápido de base de datos NoSQL
 
-Es un gestor simple y rápido de base de datos NoSQL, basado en archivos JSON por medio de identificadores, se implementa métodos básicos, PUT, GET, REMOVE, entre otros. soporta cifrado para los datos con el algoritmo AES.
+Es una implementación simple y rápida para el manejo de base de datos NoSQL, basado en archivos JSON por medio de identificadores, se implementa métodos básicos, PUT, GET, REMOVE, entre otros. soporta cifrado para los datos con el algoritmo AES.
 
 ### Instalación
 

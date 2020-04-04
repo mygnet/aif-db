@@ -1,8 +1,8 @@
 # aif-db
 
-## It is a simple and fast NoSQL database manager
+## It is a simple and fast NoSQL database
 
-It is a simple and fast NoSQL database manager, based on JSON files through identifiers, it implements basic methods, PUT, GET, REMOVE, among others. supports encryption for data with the AES algorithm.
+It is a simple and fast implementation for the management of the NoSQL database, based on JSON files through identifiers, basic methods, PUT, GET, REMOVE, among others, are implemented. supports encryption for data with the AES algorithm.
 
 ### Installation
 
