@@ -1,6 +1,6 @@
 {
   "name": "aif-db",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "It is a simple and fast NoSQL database",
   "author": {
     "name": "Martin R. Mondragon Sotelo",
@@ -22,11 +22,11 @@
   "license": "MIT",
   "private": false,
   "keywords": [
-    "encode",
-    "decode",
-    "cipher",
-    "hash",
-    "aes-256-cb"
+    "database",
+    "json",
+    "nosql",
+    "db",
+    "simple"
   ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
