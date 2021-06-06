@@ -1,7 +1,26 @@
 {
   "presets": [
-    ["es2015", {
-        "loose": true
-    }]
+    ["minify", {
+      "mangle": {
+         "exclude": { 
+           "data": true, 
+           "dir": true,
+           "name":true,
+           "key":true,
+           "table":true,
+           "id":true,
+           "callback":true,
+           "folder": true,
+           "record": true
+           
+        } 
+      }
+    }],
+    ["env",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }]
   ]
 }
